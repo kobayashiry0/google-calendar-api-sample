@@ -5,6 +5,9 @@
 使用言語はPythonです。
 
 ## How to Use
+```
+git clone https://github.com/kobayashiry0/google-calendar-api-sample.git
+```
 
 1. Google Cloud Consoleでプロジェクトを作成し、Google Calendar APIを有効にします。
 2. サービスアカウントを作成し、JSONキーをダウンロードします。
